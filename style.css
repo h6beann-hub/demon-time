@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --background: #170e13;
+  --burgundy: #78293d;
+  --rose: #c6a1aa;
+  --ivory: #f2e3da;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--background);
+  color: var(--ivory);
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+}
+
+header {
+  padding: 45px 20px 25px;
+  border-bottom: 1px solid #56303b;
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(55px, 10vw, 110px);
+  font-weight: 400;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+header p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+  font-style: italic;
+  color: var(--rose);
+}
+
+main {
+  padding: 100px 20px;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 46px;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+main p {
+  color: var(--rose);
+}
+
+button {
+  margin-top: 45px;
+  padding: 18px 48px;
+  background: var(--burgundy);
+  color: var(--ivory);
+  border: 1px solid var(--rose);
+  font-family: 'DM Sans', sans-serif;
+  letter-spacing: 3px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #a13c57;
+  transform: translateY(-3px);
+}
+
+#card-result {
+  margin: 50px auto;
+  max-width: 400px;
+}
