@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "arcana": "Major Arcana",
+    "keywords": ["beginnings", "freedom", "possibility"],
+    "meaning": "A new chapter is beginning. Trust the unknown."
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "arcana": "Major Arcana",
+    "keywords": ["power", "manifestation", "creativity"],
+    "meaning": "You already possess the tools you need."
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "arcana": "Major Arcana",
+    "keywords": ["intuition", "mystery", "secrets"],
+    "meaning": "Not every truth needs to be spoken. Listen to your intuition."
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "arcana": "Major Arcana",
+    "keywords": ["femininity", "abundance", "creation"],
+    "meaning": "Allow yourself to receive, create and flourish."
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "arcana": "Major Arcana",
+    "keywords": ["transformation", "endings", "rebirth"],
+    "meaning": "Something must end for something new to begin."
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "arcana": "Major Arcana",
+    "keywords": ["desire", "attachment", "shadow"],
+    "meaning": "Examine what binds you. Freedom begins with awareness."
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "arcana": "Major Arcana",
+    "keywords": ["dreams", "illusion", "subconscious"],
+    "meaning": "The path is unclear. Let your intuition guide you."
+  }
+]
